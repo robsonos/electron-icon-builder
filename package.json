@@ -33,15 +33,15 @@
   },
   "dependencies": {
     "args": "^5.0.1",
-    "icon-gen": "^2.0.0",
-    "jimp": "^0.16.1"
+    "icon-gen": "^3.0.1",
+    "jimp": "^0.22.8"
   },
   "devDependencies": {
-    "eslint": "^7.16.0",
-    "eslint-config-prettier": "^7.1.0",
-    "eslint-plugin-prettier": "^3.3.0",
-    "mocha": "^8.2.1",
+    "eslint": "^8.33.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "mocha": "^10.2.0",
     "prettier": "^2.2.1",
-    "rimraf": "^3.0.2"
+    "rimraf": "^5.0.1"
   }
 }
